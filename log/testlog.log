@@ -1,0 +1,120 @@
+2023-05-05 14:49:09,477 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 14:49:11,645 - Myproj8 -INFO -*****launching url*****
+2023-05-05 14:49:11,780 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 14:49:14,900 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 14:49:19,311 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 14:49:21,071 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 14:49:22,970 - Myproj8 -INFO -*****launching url*****
+2023-05-05 14:49:23,098 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 14:49:26,688 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 14:49:31,652 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 14:49:33,403 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 14:49:35,127 - Myproj8 -INFO -*****launching url*****
+2023-05-05 14:49:35,260 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 14:49:35,932 - Myproj8 -INFO -*****Expected result : Login fail : provided invalid credentals *****
+2023-05-05 14:54:03,707 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 14:54:05,494 - Myproj8 -INFO -*****launching url*****
+2023-05-05 14:54:05,626 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 14:54:08,716 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 14:54:12,916 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 14:54:14,698 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 14:54:16,117 - Myproj8 -INFO -*****launching url*****
+2023-05-05 14:54:16,804 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 14:55:31,565 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 14:55:33,434 - Myproj8 -INFO -*****launching url*****
+2023-05-05 14:55:33,565 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 14:55:37,307 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 14:55:42,012 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 14:55:43,800 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 14:55:45,854 - Myproj8 -INFO -*****launching url*****
+2023-05-05 14:55:45,983 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 14:55:49,747 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 14:55:54,311 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 14:55:56,152 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 14:55:57,399 - Myproj8 -INFO -*****launching url*****
+2023-05-05 14:55:57,518 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 14:55:58,717 - Myproj8 -INFO -*****Expected result : Login fail : provided invalid credentals *****
+2023-05-05 14:58:07,880 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 14:58:09,824 - Myproj8 -INFO -*****launching url*****
+2023-05-05 14:58:09,953 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 14:58:13,757 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 14:58:18,339 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 14:58:20,071 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 14:58:21,353 - Myproj8 -INFO -*****launching url*****
+2023-05-05 14:58:21,473 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 14:58:24,499 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 14:58:28,788 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 14:58:30,550 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 14:58:32,333 - Myproj8 -INFO -*****launching url*****
+2023-05-05 14:58:32,449 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 14:58:33,625 - Myproj8 -INFO -*****Expected result : Login fail : provided invalid credentals *****
+2023-05-05 15:03:36,510 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 15:03:37,903 - Myproj8 -INFO -*****launching url*****
+2023-05-05 15:03:38,037 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 15:04:21,549 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 15:04:23,269 - Myproj8 -INFO -*****launching url*****
+2023-05-05 15:04:23,398 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 15:08:09,555 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 15:08:10,906 - Myproj8 -INFO -*****launching url*****
+2023-05-05 15:08:11,038 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 15:08:14,032 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 15:08:14,040 - Myproj8 -INFO -*****Logout*****
+2023-05-05 15:08:18,087 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 15:08:19,982 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 15:08:21,695 - Myproj8 -INFO -*****launching url*****
+2023-05-05 15:08:21,824 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 15:08:24,904 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 15:08:24,909 - Myproj8 -INFO -*****Logout*****
+2023-05-05 15:08:28,994 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 15:08:30,765 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 15:08:32,537 - Myproj8 -INFO -*****launching url*****
+2023-05-05 15:08:32,662 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 15:08:33,832 - Myproj8 -INFO -*****Expected result : Login fail : provided invalid credentals *****
+2023-05-05 15:08:34,499 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 15:08:36,290 - Myproj8 -INFO -*****launching url*****
+2023-05-05 15:08:36,418 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 15:08:39,572 - Myproj8 -INFO -*****User successfully logged in and can vew dashboard*****
+2023-05-05 15:08:42,594 - Myproj8 -INFO -*****clicking on customer menu*****
+2023-05-05 15:08:49,598 - Myproj8 -INFO -*****click on add custome*****
+2023-05-05 15:08:50,547 - Myproj8 -INFO -*****Enter custome inforamtion*****
+2023-05-05 15:09:12,264 - Myproj8 -INFO -*****click on save button*****
+2023-05-05 15:09:19,384 - Myproj8 -INFO -*****New user successfully added*****
+2023-05-05 15:09:20,370 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 15:09:22,074 - Myproj8 -INFO -*****launching url*****
+2023-05-05 15:09:22,199 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 15:09:25,197 - Myproj8 -INFO -*****User successfully logged in and can vew dashboard*****
+2023-05-05 15:09:28,222 - Myproj8 -INFO -*****clicking on customer menu*****
+2023-05-05 15:09:35,204 - Myproj8 -INFO -*****enter email id for search*****
+2023-05-05 15:09:39,484 - Myproj8 -INFO -*****user found*****
+2023-05-05 15:15:41,671 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 15:15:43,509 - Myproj8 -INFO -*****launching url*****
+2023-05-05 15:15:43,632 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 15:15:46,679 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 15:15:46,686 - Myproj8 -INFO -*****Logout*****
+2023-05-05 15:15:50,774 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 15:15:52,552 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 15:15:54,287 - Myproj8 -INFO -*****launching url*****
+2023-05-05 15:15:54,417 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 15:15:57,441 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 15:15:57,446 - Myproj8 -INFO -*****Logout*****
+2023-05-05 15:16:01,525 - Myproj8 -INFO -*****Expected result : Login pass : provided valid credentals *****
+2023-05-05 15:16:03,292 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 15:16:05,046 - Myproj8 -INFO -*****launching url*****
+2023-05-05 15:16:05,170 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 15:16:05,824 - Myproj8 -INFO -*****Expected result : Login fail : provided invalid credentals *****
+2023-05-05 15:16:06,475 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 15:16:07,716 - Myproj8 -INFO -*****launching url*****
+2023-05-05 15:16:07,829 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 15:16:10,714 - Myproj8 -INFO -*****User successfully logged in and can vew dashboard*****
+2023-05-05 15:16:13,722 - Myproj8 -INFO -*****clicking on customer menu*****
+2023-05-05 15:16:22,047 - Myproj8 -INFO -*****click on add custome*****
+2023-05-05 15:16:26,225 - Myproj8 -INFO -*****Enter custome inforamtion*****
+2023-05-05 15:16:47,900 - Myproj8 -INFO -*****click on save button*****
+2023-05-05 15:16:54,959 - Myproj8 -INFO -*****New user successfully added*****
+2023-05-05 15:16:55,866 - Myproj8 -INFO -*****launching Chrome browser*****
+2023-05-05 15:16:57,594 - Myproj8 -INFO -*****launching url*****
+2023-05-05 15:16:57,713 - Myproj8 -INFO -*****Providing user credentials *****
+2023-05-05 15:17:00,646 - Myproj8 -INFO -*****User successfully logged in and can vew dashboard*****
+2023-05-05 15:17:03,688 - Myproj8 -INFO -*****clicking on customer menu*****
+2023-05-05 15:17:10,623 - Myproj8 -INFO -*****enter email id for search*****
+2023-05-05 15:17:14,925 - Myproj8 -INFO -*****user found*****

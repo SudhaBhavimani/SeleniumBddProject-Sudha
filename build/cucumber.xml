@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="5" time="96.635361">
+    <testcase classname="Login page" name="Successful login with valid credentials" time="11.489008">
+        <system-out><![CDATA[Given User launch chrome browser............................................passed
+When User open URL "http://admin-demo.nopcommerce.com/login"................passed
+And User enter email as "admin@yourstore.com" and password as "admin".......passed
+And Click on login..........................................................passed
+Then Page Title should be "Dashboard / nopCommerce administration"..........passed
+When User click on log out link.............................................passed
+Then Page Title should be "Your store. Login"...............................passed
+And Close browser...........................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Login page" name="login feature with data driven approach" time="10.729482">
+        <system-out><![CDATA[Given User launch chrome browser............................................passed
+When User open URL "http://admin-demo.nopcommerce.com/login"................passed
+And User enter email as "admin@yourstore.com" and password as "admin".......passed
+And Click on login..........................................................passed
+Then Page Title should be "Dashboard / nopCommerce administration"..........passed
+When User click on log out link.............................................passed
+Then Page Title should be "Your store. Login"...............................passed
+And Close browser...........................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Login page" name="login feature with data driven approach 2" time="3.172533">
+        <failure message="java.lang.AssertionError&#13;&#10;&#9;at org.junit.Assert.fail(Assert.java:86)&#13;&#10;&#9;at org.junit.Assert.assertTrue(Assert.java:41)&#13;&#10;&#9;at org.junit.Assert.assertTrue(Assert.java:52)&#13;&#10;&#9;at stepDefinations.Steps.page_title_should_be(Steps.java:105)&#13;&#10;&#9;at ✽.Page Title should be &quot;Dashboard / nopCommerce administration&quot;(file:src/test/resources/features/login.feature:20)&#13;&#10;"><![CDATA[Given User launch chrome browser............................................passed
+When User open URL "http://admin-demo.nopcommerce.com/login"................passed
+And User enter email as "admin1@yourstore.com" and password as "admin11"....passed
+And Click on login..........................................................passed
+Then Page Title should be "Dashboard / nopCommerce administration"..........failed
+When User click on log out link.............................................skipped
+Then Page Title should be "Your store. Login"...............................skipped
+And Close browser...........................................................skipped
+
+StackTrace:
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at stepDefinations.Steps.page_title_should_be(Steps.java:105)
+	at ✽.Page Title should be "Dashboard / nopCommerce administration"(file:src/test/resources/features/login.feature:20)
+]]></failure>
+    </testcase>
+    <testcase classname="Add new customers feature testing" name="Add new customer" time="49.35755">
+        <system-out><![CDATA[Given User launch chrome browser............................................passed
+When User open URL "http://admin-demo.nopcommerce.com/login"................passed
+And User enter email as "admin@yourstore.com" and password as "admin".......passed
+And Click on login..........................................................passed
+Then User can view dashboard................................................passed
+And Click on customer menu..................................................passed
+And Click on New............................................................passed
+Then User can view and add new custmore page................................passed
+And User enter customer info................................................passed
+And Click on Save...........................................................passed
+Then User can view conformation message "The new customer has added successfully.".passed
+And Close browser...........................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Add new customers feature testing" name="Search customer is added successfully" time="21.886788">
+        <system-out><![CDATA[Given User launch chrome browser............................................passed
+When User open URL "http://admin-demo.nopcommerce.com/login"................passed
+And User enter email as "admin@yourstore.com" and password as "admin".......passed
+And Click on login..........................................................passed
+Then User can view dashboard................................................passed
+And Click on customer menu..................................................passed
+Then Enter customer email...................................................passed
+And Cleck on search.........................................................passed
+Then User should be abel to find user in search table.......................passed
+And Close browser...........................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
