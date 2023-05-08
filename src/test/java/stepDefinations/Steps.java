@@ -41,7 +41,7 @@ public void user_launch_chrome_browser() throws IOException {
 	driver = new ChromeDriver();
 	
 	
-	logger.info("*****launching Chrome browser*****");
+	logger.info("*****launching Chrome browser********");
 	
 	
 	lp= new loginPage(driver);
